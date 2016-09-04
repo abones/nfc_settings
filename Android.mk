@@ -7,7 +7,7 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := $(call all-java-files-under, src)
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
 
-LOCAL_PACKAGE_NAME := NfcEnabler
+LOCAL_PACKAGE_NAME := NfcSettings
 LOCAL_CERTIFICATE := platform
 LOCAL_PRIVILEGED_MODULE := true
 

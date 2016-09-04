@@ -48,5 +48,5 @@
 # NEWER CLEAN STEPS MUST BE AT THE END OF THE LIST
 # ************************************************
 
-$(call add-clean-step, rm -f $(PRODUCT_OUT)/system/app/NfcEnabler.apk)
-$(call add-clean-step, rm -rf $(PRODUCT_OUT)/obj/APPS/NfcEnabler_intermediates)
+$(call add-clean-step, rm -f $(PRODUCT_OUT)/system/app/NfcSettings.apk)
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/obj/APPS/NfcSettings_intermediates)
