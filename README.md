@@ -1,0 +1,1 @@
+Standalone system app to enable NFC on Android

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">"NFCSettings"</string>
+    <string name="app_main">"NFC Settings"</string>
+
+    <string name="button_toggle">"Toggle"</string>
+
+    <string name="nfc_stateTemplate">"NFC State: %1$s"</string>
+    <string name="nfc_missing">No NFC adapter</string>
+    <string name="nfc_dead">Service is dead</string>
+    <string name="nfc_off">Off</string>
+    <string name="nfc_turningOn">Turning on</string>
+    <string name="nfc_on">On</string>
+    <string name="nfc_turningOff">Turning off</string>
+    <string name="nfc_unknown">Unknown state</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">"NFCSettings"</string>
+    <string name="app_main">"Настройки NFC"</string>
+
+    <string name="button_toggle">"Переключить"</string>
+
+    <string name="nfc_stateTemplate">"Статус NFC: %1$s"</string>
+    <string name="nfc_missing">Нет адаптера NFC</string>
+    <string name="nfc_dead">Служба не отвечает</string>
+    <string name="nfc_off">Выкл</string>
+    <string name="nfc_turningOn">Включается</string>
+    <string name="nfc_on">Вкл</string>
+    <string name="nfc_turningOff">Выключается</string>
+    <string name="nfc_unknown">Неизвестно</string>
+</resources>
